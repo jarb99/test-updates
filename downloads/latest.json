@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZGhMWFFoMGNJR1ZSVS9EWTkyNXBaeFVVY3J1Q3RQdHpWTVJFM3l0d2dnZHRwNGR2UnhWMmlhaDVjNjlwVHZlUDlCTFB3aDFmSG9RRWkzd1NacFA1eFB6MUZVTm0xa2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3NzAwODMxCWZpbGU6bG9jYWwtb2lfMC42LjJfeDY0X2VuLVVTLm1zaQpodFV0MldvYzh2RjFLSm4yWHZBajFqNVBPOVZSNFI3eENkK2VRSzdleGNLQU1lL0c2MERXMCtVS2FWZkRiZ042YlVzL0RraWt2RUdvd3gvSWo1SGlDQT09Cg==",
-      "url": "https://github.com/jarb99/test-updates/blob/main/download/local-oi_0.6.2_x64_en-US.msi"
+      "url": "https://raw.githubusercontent.com/jarb99/test-updates/main/downloads/local-oi_0.6.2_x64_en-US.msi"
     }
   }
 }
