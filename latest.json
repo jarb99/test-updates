@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZGhMWFFoMGNJR2JVUzRXOGxKL2R1bU8vL3V0Unk0YVpUc29aZ0FHellYc1RQSHBzRDRXQ0hLd00zei9uR2Jla2o1TGRWbUVveVlna1FWMnJhL3MvTnl0eGY0QmVRZ0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NDc3NTkwCWZpbGU6T3BlbiBJdGVtc18wLjYuM194NjRfZW4tVVMubXNpCnA0Vnh4Sm5ZVWxhOXkvWDN2MVFocE1GbnA0UlNuNDhweXZBTEg1RXRydFRyT3l3cUJCMllGTW5mTmk1UStzRGoyZGRMa3l2elFTNnJDaGxseDJ2V0RRPT0K",
-      "url": "https://github.com/jarb99/local-oi/releases/download/app-v0.6.3/Open.Items_0.6.3_x64_en-US.msi"
+      "url": "https://raw.githubusercontent.com/jarb99/local-oi/releases/download/app-v0.6.3/Open.Items_0.6.3_x64_en-US.msi"
     }
   }
 }
