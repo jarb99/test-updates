@@ -1,11 +1,11 @@
 {
-    "version": "0.7.0",
+    "version": "0.8.0",
     "notes": "See the assets to download this version and install.",
-    "pub_date": "2025-06-29T04:59:11.278Z",
+    "pub_date": "2025-07-06T04:21:42.555Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZGhMWFFoMGNJR1E3WTI5VUlJQVNyN3BVL1QwS2NxS3pKSWR3TGVxYzVldllvdjdxNjczVmh6RkgxM1NTNVpPQklCdEgvTDJrUEVLZ0RMaXZPUklvalpHdVJNU3FRQ2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxMTczMTQ4CWZpbGU6T3BlbiBJdGVtc18wLjcuMF94NjRfZW4tVVMubXNpCjZlc2FOZHlsQXozM3ViNkJQNUJSZ2IvYlVHQlJDbDh5WXpheDNIdm16UzBsNzV6bUpIVlZtWHkyTnU2ZmVkcnowRW1ZbjdycXAyVkNXMHBudlp2bEJBPT0K",
-            "url": "https://raw.githubusercontent.com/jarb99/test-updates/refs/heads/main/Open.Items_0.7.0_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZGhMWFFoMGNJR2EyWmNYdVl3STluWTFBMnBhbHBodVBmT1RWdi9oQzNya3BGVmJpRlZlS1RZclFLMVJubUFtMW5lamh6bDU2RUVib1BrV21MYjhaZWhZckVzamt2aVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUxNzc1Njk4CWZpbGU6T3BlbiBJdGVtc18wLjguMF94NjRfZW4tVVMubXNpClJTbVV3ZllMQVBpYU80aXFxbnVtUzJscTFySDVaaUxHSFZrYkpGbm5WRXhHR3lkbWFCUHpRL2c3emk0Q3VDQWEwWmNzN3NMakhMOHFoWjVKREdRSkNnPT0K",
+            "url": "https://raw.githubusercontent.com/jarb99/test-updates/refs/heads/main/Open.Items_0.8.0_x64_en-US.msi"
         }
     }
 }
